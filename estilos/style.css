@@ -6,9 +6,21 @@ body{
     background-color: rgb(148, 227, 201);
 }
 
+.a{
+    float: right;
+}
+
+h1{
+    color: rgba(49, 193, 49, 0.774);
+}
+
+h2{
+    color: rgba(62, 198, 62, 0.809);
+}
+
 main{
     background-color: white;
-    width: 500px;
+    width: 800px;
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.493);
 }
